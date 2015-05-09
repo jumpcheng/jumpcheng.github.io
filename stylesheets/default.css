@@ -1,5 +1,8 @@
-*{
+body{
 	background-color: #1fa3ff;
+	background-repeat: no-repeat;
+	background-position: center;
+
 }
 
 h2{
@@ -24,21 +27,39 @@ ul, li{
 	background-color:#473e3e;
 	margin-right: 1000px;
 	padding-top: 10;
-	padding-bottom: 150px;
+	padding-bottom: 20px;
 	z-index: 5;
-	background-attachment: fixed;
 }
 
 a:link{
 	color: Grey; 
 	text-decoration:none;
 	background-color: #473e3e;
+
 }
 
-
-.social_icons{
-	opacity: 1;
-	position: fixed;
-	background-color:#473e3e;
-	display: inline-block;
+a:visited {
+	color: Grey; 
+    background-color: #473e3e;
 }
+
+a:hover {
+	color: Grey; 
+    background-color: #473e3e;
+}
+
+a:active {
+	color: Grey; 
+    background-color: #473e3e;
+}
+
+.social_icons ul{
+	text-align: center;
+	background-color: #473e3e;
+}
+.social_icons li{
+	text-align: center;
+	background-color: #473e3e;
+}
+
+img{border:0 none;}
