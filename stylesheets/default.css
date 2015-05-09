@@ -1,0 +1,28 @@
+*{
+	background-color: #1fa3ff;
+}
+
+h2{
+	margin-left: 60px;
+	background-color:#473e3e;
+	color: white;
+}
+
+ul, li{
+	background-color:#473e3e;
+	padding-top: 30px;
+	margin-left: 25px;
+	list-style-type: none;
+	font-size: 18px;
+	text-transform: uppercase;
+	color: Grey; 
+}
+
+#sidebar{
+	font-family: CenturyGothic;
+	background-color:#473e3e;
+	margin-right: 1000px;
+	padding-top: 10;
+	padding-bottom: 150px;
+}
+
