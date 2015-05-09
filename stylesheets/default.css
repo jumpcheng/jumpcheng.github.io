@@ -44,7 +44,7 @@ a:visited {
 }
 
 a:hover {
-	color: Grey; 
+	color: white; 
     background-color: #473e3e;
 }
 
@@ -55,11 +55,8 @@ a:active {
 
 .social_icons ul{
 	text-align: center;
-	background-color: #473e3e;
 }
 .social_icons li{
 	text-align: center;
-	background-color: #473e3e;
 }
 
-img{border:0 none;}
